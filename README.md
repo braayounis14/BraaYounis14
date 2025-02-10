@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate developer with a background in computer science, which I began exploring during high school. Over the years, I've gained experience in various programming languages and frameworks, including:<br><br>Java and C#<br>ASP.NET Framework with a C# backend<br>Web development using HTML, CSS, and JavaScript<br>Currently, I'm focused on expanding my skills in modern web development with .NET 8. I'm also delving into server management, learning how to set up and manage a Linux server VPS with Ubuntu.<br><br>I'm always eager to learn and take on new challenges, whether it's mastering a new technology or building a complex application from scratch.
+I'm a passionate developer with a background in computer science, which I began exploring during high school. Over the years, I've gained experience in various programming languages and frameworks, including:<br><br>Java and C#<br>ASP.NET Framework with a C# backend<br>Web development using HTML, CSS, and JavaScript<br>Currently, I'm focused on expanding my skills in modern web development with .NET 9. I'm also delving into server management, learning how to set up and manage a Linux server VPS with Ubuntu.<br><br>I'm always eager to learn and take on new challenges, whether it's mastering a new technology or building a complex application from scratch.
 
 
 ## 🌐 Socials:
